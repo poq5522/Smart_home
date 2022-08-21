@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/S_H/smart_home_m/smart_home/spi_core/spi.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/ubuntu/S_H/smart_home_m/smart_home/spi_core/spi.ko /home/ubuntu/S_H/smart_home_m/smart_home/spi_core/spi.o /home/ubuntu/S_H/smart_home_m/smart_home/spi_core/spi.mod.o;  true

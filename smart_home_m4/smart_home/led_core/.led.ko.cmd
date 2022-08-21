@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/S_H/smart_home_m/smart_home/led_core/led.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/ubuntu/S_H/smart_home_m/smart_home/led_core/led.ko /home/ubuntu/S_H/smart_home_m/smart_home/led_core/led.o /home/ubuntu/S_H/smart_home_m/smart_home/led_core/led.mod.o;  true

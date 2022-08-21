@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/S_H/smart_home_m/smart_home/motor/motor.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/ubuntu/S_H/smart_home_m/smart_home/motor/motor.ko /home/ubuntu/S_H/smart_home_m/smart_home/motor/motor.o /home/ubuntu/S_H/smart_home_m/smart_home/motor/motor.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/S_H/smart_home_m/smart_home/si7006/si7006.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/ubuntu/S_H/smart_home_m/smart_home/si7006/si7006.ko /home/ubuntu/S_H/smart_home_m/smart_home/si7006/si7006.o /home/ubuntu/S_H/smart_home_m/smart_home/si7006/si7006.mod.o;  true
